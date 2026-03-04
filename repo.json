@@ -1,0 +1,8 @@
+{
+  "name": "BaoCuTe Repo",
+  "description": "Repo phim của tao",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/tranlegiabao8090-dotcom/BaoCuTe/main/plugins.json"
+  ]
+}
